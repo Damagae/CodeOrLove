@@ -1,0 +1,659 @@
+Coding... Again...
+***
+#1 // This line is not useful for the program but it is for me
+You're in the project room, again. You weren't supposed to go to school today but since your C project have not really progress in a week, you thought it would be a good idea to put yourself in great working condition. At home, you're always tempted to watch some TV shows or bake some cookies. At school, you hope you'll find people to help you. As you start to pull off your coat, you realize that it's really cold out there. It seems like only one radiator is working for the whole room and a bunch of students are stuck around it like Cro-Magnon men around camp fire.
+One student though doesn't seem to be bothered by the cold. [L-I-PRONOUN-F] wears shorts and a vest top.
+*
+2
+3
+*
+You try to get yourself closer to the radiator.
+You ask the [L-I-GENDER] why [L-I-PRONOUN] wears so few clothes.
+***
+#2-------------------------------------------------------------------------------
+They are all packed around the heat source. One of your classmate looks at you in way that do not invite you to come near.
+*
+35
+23
+*
+You force your way through no matter what.
+You leave.
+***
+#3-------------------------------------------------------------------------------
+"Hey! How are you doing? You ain't cold?" You ask. You pull your coat a little bit closer to yourself.
+"Hey!" [L-I-PRONOUN-F] answers you back. "Cold? Feels sooo nice actually uh."
+You raise a circumspect brow. Seriously? You look at [L-I-POSS-PRONOUN] uncovered arms and a bit of [L-I-POSS-PRONOUN] belly. [L-I-PRONOUN-F] doesn't seem to shiver. You notice that [L-I-PRONOUN]'s well shaped. You never really had the occasion to talk to [L-I-PRONOUN2] even though [L-I-PRONOUN]'ve always been in your class.
+*
+2
+4
+*
+Good talk. You go near the radiator now.
+"What are you here for, by the way? You want to finish your project too?"
+***
+#4-------------------------------------------------------------------------------
+"Naah, I'm done with it for a week ya know..." Argh, [L-I-PRONOUN] has no need to say this in front of you.
+"'Was working on da synth, uuh, see? I can play L'inverno of Vivaldi with it, wanna hear uh?"
+*
+5
+6
+*
+"I trust you, thanks!" Why does [L-I-PRONOUN] have to brag like that?
+"No way, with a keyboard, seriously?!"
+***
+#5-------------------------------------------------------------------------------
+"OK..." [L-I-PRONOUN-F] says with a sad puppy look on [L-I-POSS-PRONOUN] face.
+*
+2
+7
+*
+You slowly turn around and go near the radiator.
+"Hum, maybe I'd like to hear you after all?"
+***
+#6-------------------------------------------------------------------------------
+"Ha nah, ya crazy? No one can do that, uh. But ya lucky that I brought my guitar. I actually can plug it uh, and control the program. That's a shame I don't have an electric violin..." There's effectively a guitar box behind him, but also a really big cardboard box that wasn't there the last time you were in that room.
+*
+7
+8
+*
+"Then, come on! Show me your programming - slash - musician skills!"
+"What's in the big box? Is that yours?"
+***
+#7-------------------------------------------------------------------------------
+"Yeah, let's do that uh..." [L-I-PRONOUN-F] says. [L-I-PRONOUN-F] takes care of installing [L-I-POSS-PRONOUN] guitar and running the program. The interface is really nice and thorough. [L-I-PRONOUN-F] starts to play, and [L-I-PRONOUN] did not lie. [L-I-PRONOUN-F]'s extremely talented and his program beyond everything you could expect from a C++ project. When [L-I-PRONOUN]'s done, everyone in the room applauds.
+"You're really good! It was perfect!" You say, impressed.
+*
+34
+8
+*
+"Since when are you such a talented musician?"
+"By the way, what's in the big box? Is that yours?"
+***
+#8-------------------------------------------------------------------------------
+"Uh yeaah, you noticed it? Actually I'm here uh to test that awesome stuff I bought recently."
+"That's extremely big." You say. "Couldn't you try it at your home?"
+"Naah, ya don't get it. It's not really about the, uh, place. It's more about the mood, the spirit, tryin' to get the perfect atmosphere for the test ya know uh?" Wow that [L-I-GENDER] is 100% loony. [L-I-POSS-PRONOUN-F] blood must not be clean.
+*
+10
+9
+*
+"Are you high?"
+"Show me please! It's extremely intriguing!"
+***
+#9-------------------------------------------------------------------------------
+"OK, let's do that uh." [L-I-PRONOUN-F] says. [L-I-PRONOUN-F] pulls the big box. "I gotta be careful, it's quite fragile uh."
+You still can't imagine what it is. [L-I-PRONOUN-F] takes a really long time to cut the strings, open the box. [L-I-POSS-PRONOUN-F] back is between the mysterious object and you, so you can't guess yet. Slowly, [L-I-PRONOUN] takes something really big and long from the box. Then [L-I-PRONOUN] turns back to face you with the object.
+It's a surfboard.
+*
+11
+11
+11
+11
+*
+"IT'S A SURFBOARD!"
+"WHAT THE HELL IT'S A SURFBOARD?!"
+"OH GOD!"
+"YOU HAVE TO BE KIDDING WHAT ARE YOU DOING HERE WITH A GODDAMN SURFBOARD?!"
+***
+#10-------------------------------------------------------------------------------
+"High-ranked programmer, yeah that's for sure uh!" [L-I-PRONOUN-F]'s going to open the box.
+[L-I-PRONOUN-F] pulls the big box. "I gotta be careful, it's quite fragile uh."
+You still can't imagine what it is. [L-I-PRONOUN-F] takes a really long time to cut the strings, open the box. [L-I-POSS-PRONOUN-F] back is between the mysterious object and you, so you can't guess yet. Slowly, [L-I-PRONOUN] takes something really big and long from the box. Then [L-I-PRONOUN] turns back to face you with the object.
+It's a surfboard.
+*
+11
+11
+11
+11
+*
+"IT'S A SURFBOARD!"
+"WHAT THE HELL IT'S A SURFBOARD?!"
+"OH GOD!"
+"YOU HAVE TO BE KIDDING WHAT ARE YOU DOING HERE WITH A GODDAMN SURFBOARD?!"
+***
+#11------------------------------------------------------------------------------
+"Yeah it's a surfboard uh. Really cool, don't ya think? I already have 8 surfboards but I thought this one was missing. It's a very special one, ya know?"
+So many questions. So many. In your head.
+But now you notice there's a wire that flaps from the board.
+"I'm gonna try it now uh. I'm so happy uh." [L-I-PRONOUN-F] takes the plug and connect it on the computer. [L-I-PRONOUN-F] carefully lays the surfboard on the ground.
+"Is it...?" You don't dare to ask. [L-I-PRONOUN-F] smiles at you. "Yeah it is." "No." "Yeah, yeah." "Can't be."
+"It's a kind of human-sized control device for computer. Cool uh? Now I can literally say that..."
+*
+12
+12
+*
+[L-I-PRONOUN-F]'s going to say it.
+[L-I-PRONOUN-F] won't say it. Will [L-I-PRONOUN] dare? [L-I-PRONOUN-F] possibly can't...
+***
+#12------------------------------------------------------------------------------
+"I'M SURFING THE WEB!"
+You're in shock. You can't say anything.
+"Wanna try?" [L-I-PRONOUN-F] asks.
+*
+14
+14
+15
+13
+*
+You're stunned.
+"I'VE BEEN WAITING FOR THIS MY WHOLE LIFE!"
+"No."
+It's going way too far.
+***
+#13------------------------------------------------------------------------------
+Yeah maybe. ¯\_(ツ)_/¯
+*
+END
+***
+#14-------------------------------------------------------------------------------
+"Come on!" [L-I-PRONOUN-F] take you by the arm and guide you on the surfboard. "Here ya go... Nice, uh? We can almost hear the waves... The waves of bits..."
+That's actually pretty funny.
+"What is good is that you work out a little bit while doing nerd stuffs uh, really good for hamstring muscles, ya know..."
+*
+16
+17
+18
+*
+"Can I borrow it for today? I think it might be really helpful in my work."
+Enough of surfing for today. You have cramps.
+Oh no! A huge wave of emails is coming. You have to get prepared to ride it!
+***
+#15-------------------------------------------------------------------------------
+"Oh please uh!" [L-I-PRONOUN-F] take you by the arm and guide you on the surfboard. "Don't be shy... Nice, uh? We can almost hear the waves... The waves of bits..."
+You feel really stupid. Everyone in the room is looking at you. You have to get away.
+"What is good is that you work out a little bit while doing nerd stuffs uh, really good for hamstring muscles, ya know..."
+*
+21
+22
+*
+"Please, let me go."
+"That stuff is shit."
+***
+#16-------------------------------------------------------------------------------
+"Yeaaah, of course uh. Couldn't be more happy to help ya." [L-I-PRONOUN-F] says. "You gotta know there's a very useful function to compile, all ya gotta do move your hips a little bit like this." [L-I-PRONOUN-F] imitates the gesture.
+"So cool!" You say in awe.
+Who could stop you now from bringing your project off now? You're riding compilation errors like a Poseidon on the ocean. This surfboard is the very thing that made you like programming until now. Maybe you should get one?
+"How much did it cost you?" You ask the [L-I-GENDER] who is now playing guitar.
+"Nothing..." [L-I-PRONOUN-F] says. "Actually I won't at a contest... It's a unique piece, I don't think they made more."
+What? In a leg move, you're on the web looking for a price. There's one on ebay. It's 80,000€.
+*
+19
+20
+*
+Take the surfboard home and never give [L-I-PRONOUN2] back.
+Give the surfboard back.
+***
+#17-------------------------------------------------------------------------------
+"Are you OK uh?" [L-I-PRONOUN-F] asks, worried.
+You are not. You are stuck. Your thighs hurt like hell! You want to keep you dignity but when you try to make a step, you whine like a baby.
+"It huuurts!" You scream, tears in your eyes.
+Your classmate decide to call an ambulance.
+"Argh!" You say.
+You stay the next 2 days in the hospital. You could have use it as an excuse for not doing your project (and not have a retake) but surf[L-I-GENDER] thought it was a good idea to bring your laptop at the hospital.
+"There. You can still work!" [L-I-PRONOUN-F] says proudly. What a moron.
+*
+END
+***
+#18-------------------------------------------------------------------------------
+Wow, it is a really big wave, a huge roller. You don't know if you can take it. But the challenge is too tempting, you have to try. You place your feet, carefully, and lower your hips. You are ready. It may be your schooling supervisor, telling you holidays are canceled, your bank asking for money because of your overdraft, whatever, you are ready.
+But you are just a beginner and at first mail you fall off the surfboard.
+You can't take this humiliation and decide to seppuku with a pen.
+You don't die but your shirt is ruined. As your reputation.
+*
+END
+***
+#19-------------------------------------------------------------------------------
+You can't go to school anymore now. Everyone knows you're a thief and hate you. You have to go through all that lawsuit stuffs. Was it worth it?
+Hell yeah!
+You are now a genius programmer. You set up your own company that had become quickly successful. In 2 years, it was listed on the stock exchange.
+Every summer, you can ride real waves on the beach of Teahupo'o at Tahiti.
+Every winter, you can ride the mountain of Davos in Switzerland.
+And in other seasons you can still ride the sky with your overboard.
+*
+END
+***
+#20-------------------------------------------------------------------------------
+It breaks your heart, but you have to give the surfboard back at the end of the day. Still, day and night, you can only think of the board. So you make plans to visit the surfboard owner, whose name is Sasha. By visiting [L-I-PRONOUN2] regularly, you become inevitably closer.
+A few years later, you're both on a beach in California teaching your child how to ride their first wave.
+*
+END
+***
+#21-------------------------------------------------------------------------------
+"Yeah, sure... Sorry if I was being too pressing uh..."
+[L-I-PRONOUN-F] looks honestly sorry so you say "It's fine, never mind."
+You get off the surfboard and find a place to put your laptop. You're not in a mood to work anymore. The [L-I-GENDER] is playing guitar next to you, it's really distracting.
+*
+23
+24
+*
+You leave.
+You ask [L-I-PRONOUN2] for help.
+***
+#22-------------------------------------------------------------------------------
+[L-I-PRONOUN-F] doesn't seem that happy anymore. "I can feel really bad vibes coming from ya..." [L-I-PRONOUN-F] says.
+"Please go." [L-I-PRONOUN-F] adds. You get off the surfboard and go put your laptop somewhere else in the room.
+"No, go. Like go." [L-I-PRONOUN-F] says firmly.
+You are not wanted there anymore. You leave the cold room to find out it snowed outside. Your bus won't come. You go to the train station but traffic is also disrupted there.
+You have to wait.
+*
+25
+*
+You wait.
+***
+#23-------------------------------------------------------------------------------
+You are going to the bus stop. Once in, you fall rapidly asleep. When you wake up, you notice you missed your stop. You have to wait for the bus that goes the other way. You get in. Then you get off at the train station. You can see the train coming! It's already late, you don't want to wait another 30 minutes for the next train. So you run the fastest you can. Unfortunately, you fall in the stairs. Your rolling on your bag. You hear a big, horrible "CRAACK".
+Your laptop is broken in two.
+All your work for the semester is gone.
+The train is gone, too.
+*
+END
+***
+#24-------------------------------------------------------------------------------
+"Please... What is wrong?"
+"I have some issues with the exceptions..."
+For the whole day, [L-I-PRONOUN] helps you patiently. In the end, your project looks really good.
+"Thanks!" You say to [L-I-PRONOUN2].
+No retake for you.
+*
+END
+***
+#25-------------------------------------------------------------------------------
+You wait.
+*
+26
+*
+You keep waiting.
+***
+#26-------------------------------------------------------------------------------
+You wait again. It's really cold.
+*
+27
+*
+You wait a little bit more.
+***
+#27-------------------------------------------------------------------------------
+Your phone ran out of batteries.
+*
+28
+*
+You keep waiting.
+***
+#28-------------------------------------------------------------------------------
+You wait.
+*
+29
+*
+You keep waiting.
+***
+#29-------------------------------------------------------------------------------
+Your hungry but you wait.
+*
+30
+31
+*
+You wait.
+You go find something to eat.
+***
+#30-------------------------------------------------------------------------------
+You wait then.
+*
+32
+*
+You keep waiting.
+***
+#31-------------------------------------------------------------------------------
+You don't want to miss your train though so you wait.
+*
+32
+*
+You keep waiting.
+***
+#32-------------------------------------------------------------------------------
+It's been an hour already, you think maybe you should go find a bus or something else.
+*
+25
+33
+*
+You keep waiting.
+You get out the station.
+***
+#33-------------------------------------------------------------------------------
+The minute you left the station, you could hear the train coming. So you try your luck, you run back to the platform.
+You run the fastest you can. Unfortunately, you fall in the stairs. Your rolling on your bag. You hear a big, horrible "CRAACK".
+Your laptop is broken in two.
+All your work for the semester is gone.
+The train is gone, too.
+*
+END
+***
+#34-------------------------------------------------------------------------------
+"Uh, thanks... It's been a long time, now... I've been practicing since I'm child uh. But ya know, I have a band with a few friends."
+"Really? What's the name?" You ask.
+"It's Practical Emulsion." [L-I-PRONOUN-F] says proudly.
+Ah.
+"By the way, you know what is in the box behind you?" You ask.
+"Uh yeaah, you noticed it? Actually I'm here uh to test that awesome stuff I bought recently. I brought it here to get the mood, the spirit, tryin' to get the perfect atmosphere for the test ya know uh?" Wow that [L-I-GENDER] is 100% loony. [L-I-POSS-PRONOUN-F] blood must not be clean.
+*
+10
+9
+*
+"Are you high?"
+"Show me please! It's extremely intriguing!"
+***
+#35-------------------------------------------------------------------------------
+You start starring at that boy who looks really advanced in his code. After 5 minutes, he starts to feel you gaze and feel uncomfortable. He ends up picking up his laptop and leave. Yes, your plan worked perfectly fine.
+Now you have a seat. You look at your previous work, and find that something is missing. You did not put any templates. But you don't really know what it's good for.
+*
+36
+37
+38
+*
+You look at your lessons.
+You look on Wikipedia.
+You try to code and see if it works.
+***
+#36-------------------------------------------------------------------------------
+It says:
+You can add two const int in a sum function. But if your want to use float in it, it will give you a unsatisfying result.
+For example, sum(7,9) gives 16 but sum(7.9,1.7) gives 8 instead of 9.6. What you can do is overload the function.
+*
+39
+40
+*
+You overload your functions.
+You keep reading.
+***
+#37-------------------------------------------------------------------------------
+Wikipedia says:
+Templates are a feature of the C++ programming language that allows functions and classes to operate with generic types. This allows a function or class to work on many different data types without being rewritten for each one.
+Templates are of great utility to programmers in C++, especially when combined with multiple inheritance and operator overloading. The C++ Standard Library provides many useful functions within a framework of connected templates.
+Major inspirations for C++ templates were the parameterized modules provided by CLU and the generics provided by Ada.
+*
+42
+36
+*
+You keep reading.
+You'd rather read your lessons actually.
+***
+#38-------------------------------------------------------------------------------
+It does not work. You end up destroying everything you have done until now.
+*
+END
+***
+#39-------------------------------------------------------------------------------
+You ends up having too much functions overloaded for every type. You get a crappy mark.
+*
+END
+***
+#40-------------------------------------------------------------------------------
+What is better to do if to define a template function defined with a generic type, that can be called with any types (allowed by the implementation).
+The key work to use is template. It's declared thus :
+template<typename Typepe>
+"typename" indicates to the compiler that Type refers to the generic type.
+*
+41
+36
+*
+You try to implement a function with template.
+You read your lesson again because you're not sure you got everything right.
+***
+#41-------------------------------------------------------------------------------
+Excellent! Your code is perfect now it has templates! You have an excellent mark!
+*
+END
+***
+#42-------------------------------------------------------------------------------
+There are three kinds of templates: function templates, class templates and, since C++14, variable templates. Since C++11, templates may be either variadic or non-variadic; in earlier versions of C++ they are always non-variadic.
+Function templates
+A function template behaves like a function except that the template can have arguments of many different types (see example). In other words, a function template represents a family of functions. The format for declaring function templates with type parameters is:
+template <class identifier> function_declaration;
+template <typename identifier> function_declaration;
+*
+43
+36
+*
+You keep reading.
+Maybe you should read your lessons.
+***
+#43-------------------------------------------------------------------------------
+Both expressions have the same meaning and behave in exactly the same way. The latter form was introduced to avoid confusion, since a type parameter need not be a class. (It can also be a basic type such as int or double.)
+For example, the C++ Standard Library contains the function template max(x, y) which returns the larger of x and y. That function template could be defined like this:
+template <typename T>
+inline T max(T a, T b) {
+    return a > b ? a : b;
+}
+*
+44
+36
+*
+You keep reading.
+It's probably better explained in your lessons.
+***
+#44-------------------------------------------------------------------------------
+This single function definition works with many data types. Specifically, it works with all data types for which > (the greater-than operator) is defined. The usage of a function template saves space in the source code file in addition to limiting changes to one function description and making the code easier to read.
+A template does not produce smaller object code, though, compared to writing separate functions for all the different data types used in a specific program. For example, if a program uses both an int and a double version of the max() function template shown above, the compiler will create an object code version of max() that operates on int arguments and another object code version that operates on double arguments. The compiler output will be identical to what would have been produced if the source code had contained two separate non-templated versions of max(), one written to handle int and one written to handle double.
+*
+45
+*
+You keep reading.
+***
+#45-------------------------------------------------------------------------------
+Here is how the function template could be used:
+#include <iostream>
+int main()
+{
+    // This will call max<int> by implicit argument deduction.
+    std::cout << max(3, 7) << std::endl;
+
+    // This will call max<double> by implicit argument deduction.
+    std::cout << max(3.0, 7.0) << std::endl;
+
+    // This depends on the compiler. Some compilers handle this by defining a template
+    // function like double max <double> ( double a, double b);, while in some compilers
+    // we need to explicitly cast it, like std::cout << max<double>(3,7.0);
+    std::cout << max(3, 7.0) << std::endl;
+    std::cout << max<double>(3, 7.0) << std::endl;
+    return 0;
+}
+*
+46
+*
+You read.
+***
+#46-------------------------------------------------------------------------------
+In the first two cases, the template argument Type is automatically deduced by the compiler to be int and double, respectively. In the third case automatic deduction of max(3, 7.0) would fail because the type of the parameters must in general match the template arguments exactly. Therefore, we explicitly instantiate the double version with max<double>().
+This function template can be instantiated with any copy-constructible type for which the expression y > x is valid. For user-defined types, this implies that the greater-than operator (>) must be overloaded in the type.
+*
+47
+*
+You read.
+***
+#47-------------------------------------------------------------------------------
+A class template provides a specification for generating classes based on parameters. Class templates are generally used to implement containers. A class template is instantiated by passing a given set of types to it as template arguments.[3] The C++ Standard Library contains many class templates, in particular the containers adapted from the Standard Template Library, such as vector.
+In C++14, templates can be also used for variables, as in the following example:
+template<typename T> constexpr T pi = T(3.141592653589793238462643383L);
+*
+48
+49
+*
+You read.
+Maybe if reading Wikipedia was your goal you wouldn't be there playing this game.
+***
+#48-------------------------------------------------------------------------------
+When a function or class is instantiated from a template, a specialization of that template is created by the compiler for the set of arguments used, and the specialization is referred to as being a generated specialization.
+Sometimes, the programmer may decide to implement a special version of a function (or class) for a given set of template type arguments which is called an explicit specialization. In this way certain template types can have a specialized implementation that is optimized for the type or more meaningful implementation than the generic implementation.
+    If a class template is specialized by a subset of its parameters it is called partial template specialization (function templates cannot be partially specialized).
+    If all of the parameters are specialized it is a full specialization.
+*
+50
+*
+You read.
+***
+#49-------------------------------------------------------------------------------
+Maybe but you're going to read anyway.
+*
+52
+*
+You read.
+***
+#50-------------------------------------------------------------------------------
+When a function or class is instantiated from a template, a specialization of that template is created by the compiler for the set of arguments used, and the specialization is referred to as being a generated specialization.
+Sometimes, the programmer may decide to implement a special version of a function (or class) for a given set of template type arguments which is called an explicit specialization. In this way certain template types can have a specialized implementation that is optimized for the type or more meaningful implementation than the generic implementation.
+    If a class template is specialized by a subset of its parameters it is called partial template specialization (function templates cannot be partially specialized).
+    If all of the parameters are specialized it is a full specialization.
+*
+51
+*
+You read.
+***
+#51-------------------------------------------------------------------------------
+Explicit specialization is used when the behavior of a function or class for particular choices of the template parameters must deviate from the generic behavior: that is, from the code generated by the main template, or templates. For example, the template definition below defines a specific implementation of max() for arguments of type bool:
+template <>
+bool max<bool>(bool a, bool b) {
+    return a || b;
+}
+*
+41
+*
+Enough reading, you're good now.
+***
+#52-------------------------------------------------------------------------------
+When a function or class is instantiated from a template, a specialization of that template is created by the compiler for the set of arguments used, and the specialization is referred to as being a generated specialization.
+Sometimes, the programmer may decide to implement a special version of a function (or class) for a given set of template type arguments which is called an explicit specialization. In this way certain template types can have a specialized implementation that is optimized for the type or more meaningful implementation than the generic implementation.
+    If a class template is specialized by a subset of its parameters it is called partial template specialization (function templates cannot be partially specialized).
+    If all of the parameters are specialized it is a full specialization.
+*
+54
+*
+You read.
+***
+#53-------------------------------------------------------------------------------
+When a function or class is instantiated from a template, a specialization of that template is created by the compiler for the set of arguments used, and the specialization is referred to as being a generated specialization.
+Sometimes, the programmer may decide to implement a special version of a function (or class) for a given set of template type arguments which is called an explicit specialization. In this way certain template types can have a specialized implementation that is optimized for the type or more meaningful implementation than the generic implementation.
+    If a class template is specialized by a subset of its parameters it is called partial template specialization (function templates cannot be partially specialized).
+    If all of the parameters are specialized it is a full specialization.
+*
+54
+*
+You read.
+***
+#54-------------------------------------------------------------------------------
+Explicit specialization is used when the behavior of a function or class for particular choices of the template parameters must deviate from the generic behavior: that is, from the code generated by the main template, or templates. For example, the template definition below defines a specific implementation of max() for arguments of type bool:
+template <>
+bool max<bool>(bool a, bool b) {
+    return a || b;
+}
+*
+57
+55
+*
+You read.
+You're tired of reading. You want to stop.
+***
+#55-------------------------------------------------------------------------------
+If you stop reading now, you won't have the end of the story.
+*
+56
+57
+*
+STOP!
+You read...
+***
+#56-------------------------------------------------------------------------------
+OK, you're the boss.
+*
+END
+***
+#57-------------------------------------------------------------------------------
+C++11 introduced variadic templates, which can take a variable number of arguments in a manner somewhat similar to variadic functions such as std::printf. Both function templates and class templates can be variadic.
+Some uses of templates, such as the max() function mentioned above, were previously fulfilled by function-like preprocessor macros. For example, the following is a C++ max() macro that evaluates to the maximum of its two arguments as defined by the < operator:
+  #define max(a,b) ((a) < (b) ? (b) : (a))
+*
+58
+*
+You read.
+***
+#58-------------------------------------------------------------------------------
+Both macros and templates are expanded at compile time. Macros are always expanded inline, while templates are only expanded inline when the compiler deems it appropriate. When expanded inline, macro functions and function templates have no extraneous runtime overhead. Template functions with many lines of code will incur runtime overhead when they are not expanded inline, but the reduction in code size may help the code to fit into the CPU's instruction cache.
+Macro arguments are not evaluated prior to expansion. The expression using the macro defined above
+  max(0, std::rand() - 100)
+may evaluate to a negative number (because std::rand() will be called twice as specified in the macro, using different random numbers for comparison and output respectively), while the call to template function
+  std::max(0, std::rand() - 100)
+will always evaluate to a non-negative number.
+*
+59
+*
+You read.
+***
+#59-------------------------------------------------------------------------------
+As opposed to macros, templates are considered type-safe; that is, they require type-checking at compile time. Hence, the compiler can determine at compile time whether the type associated with a template definition can perform all of the functions required by that template definition.
+By design, templates can be utilized in very complex problem spaces, whereas macros are substantially more limited.
+There are fundamental drawbacks to the use of templates:
+    Historically, some compilers exhibited poor support for templates. So, the use of templates could decrease code portability.
+    Many compilers lack clear instructions when they detect a template definition error. This can increase the effort of developing templates, and has prompted the development of Concepts for possible inclusion in a future C++ standard.
+    Since the compiler generates additional code for each template type, indiscriminate use of templates can lead to code bloat, resulting in larger executables.
+    Because a template by its nature exposes its implementation, injudicious use in large systems can lead to longer build times.
+    It can be difficult to debug code that is developed using templates. Since the compiler replaces the templates, it becomes difficult for the debugger to locate the code at runtime.
+*
+60
+*
+You read.
+***
+#60-------------------------------------------------------------------------------
+    Templates of templates (nested templates) are not supported by all compilers, or might have a limit on the nesting level.
+    Templates are in the headers, which require a complete rebuild of all project pieces when changes are made.
+    No information hiding. All code is exposed in the header file. No one library can solely contain the code.
+Additionally, the use of the "less than" and "greater than" signs as delimiters is problematic for tools (such as text editors) which analyze source code syntactically. It is difficult for such tools to determine whether a use of these tokens is as comparison operators or template delimiters. For example, this line of code:
+foo (a < b, c > d) ;
+may be a function call with two parameters, each the result of a comparison expression, or possibly a function call with one parameter, utilizing the C++ comma operator (whose end result would depend on possible side effects of a, b, c, and/or d). Alternatively, it could be a declaration of a constructor for class foo taking a parameter d whose type is the parameterized a < b, c >.
+*
+61
+*
+You read.
+***
+#61-------------------------------------------------------------------------------
+Initially, the concept of templates was not included in some languages, such as Java and C# 1.0. Java's adoption of generics mimics the behavior of templates, but is technically different. C# added generics (parameterized types) in .NET 2.0. The generics in Ada predate C++ templates.
+Although C++ templates, Java generics, and .NET generics are often considered similar, generics only mimic the basic behavior of C++ templates.[4] Some of the advanced template features utilized by libraries such as Boost and STLSoft, and implementations of the STL itself, for template metaprogramming (explicit or partial specialization, default template arguments, template non-type arguments, template template arguments, ...) are not available with generics.
+*
+63
+*
+You read.
+***
+#62-------------------------------------------------------------------------------
+Initially, the concept of templates was not included in some languages, such as Java and C# 1.0. Java's adoption of generics mimics the behavior of templates, but is technically different. C# added generics (parameterized types) in .NET 2.0. The generics in Ada predate C++ templates.
+Although C++ templates, Java generics, and .NET generics are often considered similar, generics only mimic the basic behavior of C++ templates.[4] Some of the advanced template features utilized by libraries such as Boost and STLSoft, and implementations of the STL itself, for template metaprogramming (explicit or partial specialization, default template arguments, template non-type arguments, template template arguments, ...) are not available with generics.
+*
+63
+*
+You read.
+***
+#63------------------------------------------------------------------------------
+In C++ templates, compile-time cases were historically performed by pattern matching over the template arguments. For example, the template base class in the Factorial example below is implemented by matching 0 rather than with an inequality test, which was previously unavailable. However, the arrival in C++11 of standard library features such as std::conditional has provided another, more flexible way to handle conditional template instantiation.
+// Induction
+template <int N>
+struct Factorial {
+  static const int value = N * Factorial<N - 1>::value;
+};
+*
+64
+*
+You read.
+***
+#64------------------------------------------------------------------------------
+// Base case via template specialization:
+template <>
+struct Factorial<0> {
+  static const int value = 1;
+};
+With these definitions, one can compute, say 6! at compile time using the expression Factorial<6>::value. Alternatively, constexpr in C++11 can be used to calculate such values directly using a function at compile-time.
+*
+65
+*
+Phew that was the end, now back to coding.
+***
+#65------------------------------------------------------------------------------
+Actually the beginning of the Wikipedia page was the most interesting for you so you should read it again.
+*
+37
+*
+You read.
+***

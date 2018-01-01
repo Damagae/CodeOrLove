@@ -1,0 +1,120 @@
+Before the concert
+***
+#1-------------------------------------------------------------------------------
+You're in front of [L-I-NAME]'s door. It's 7pm. You hesitate to knock on the door. You expect many people to be there already but you can't hear anyone talking.
+*
+2
+4
+*
+You leave.
+You knock.
+***
+#2-------------------------------------------------------------------------------
+You leave the building, it's cold outside. What are you doing? You're supposed to be happy to be there!
+*
+4
+3
+*
+You get back inside and knock the door.
+You go home and work your damn project.
+***
+#3-------------------------------------------------------------------------------
+You're finally happy to get home. You tell [L-I-NAME] you're sorry on the phone, and that you can't come because you're sick. [L-I-PRONOUN-F] answers: "OK, rest well and get better!" You won't rest but for sure your code will get better. You made that cup of hot chocolate and listen to some ASMR to help you focus. You've never be that productive! No retake for you!
+*
+END
+***
+#4-------------------------------------------------------------------------------
+"Come in, it's open!" You hear.
+You open the door and make a few steps in the small flat. [L-I-NAME] is on [L-I-POSS-PRONOUN] bed, [L-I-POSS-PRONOUN] computer on [L-I-POSS-PRONOUN] lap.
+"Oh, that's you!" [L-I-PRONOUN-F] says.
+"Am I too early?" You ask. There is only the two of you.
+"No, no, the others will come soon. I was working on my programing project meanwhile. I have this problem by the way... Maybe you could help me?"
+*
+5
+5
+6
+*
+"Me, helping you? You're really asking me? HA HA!"
+"Please to talk about this goddamn project, I'm sick of it!"
+"You know I'm really bad at this but I can look. Who knows?"
+***
+#5-------------------------------------------------------------------------------
+"You're not fund of coding either, are you?" [L-I-PRONOUN] says while laughing.
+"No, I'm not!" You say.
+"OK!" [L-I-PRONOUN-F] says before closing his laptop. "Let's drink then!"
+"I brought beers." You say.
+"Nice! You can put them in the fridge."
+"What do you want to drink?" You ask. "Whatever, make me something cool!".
+*
+8
+8
+9
+*
+You make [L-I-PRONOUN2] a nice cocktail with fruit juice, syrup and rum.
+You make [L-I-PRONOUN2] a whisky-coke.
+You make [L-I-PRONOUN2] a strong drink with a lot of vodka. Maybe it will help you get what you want...
+***
+#6-------------------------------------------------------------------------------
+"Come here then." You go near [L-I-PRONOUN2] on the bed.
+"Actually, I met this error and I know how to solve it!" You say, finally happy to be helping.
+You work with [L-I-NAME] for an hour before Camille and Vincent come. You learned a lot of things and [L-I-NAME] says [L-I-PRONOUN] will send you what you've both done.
+When you go to the concert, you're in the perfect mood and you have the best night of your life.
+*
+END
+***
+#7-------------------------------------------------------------------------------
+You kiss the [L-I-PRONOUN]. [L-I-PRONOUN-F] do not complain. That's a win!
+*
+END
+***
+#8-------------------------------------------------------------------------------
+You give [L-I-PRONOUN2] [L-I-POSS-PRONOUN] drink. "Thank you!" [L-I-PRONOUN-F] says. "I'm glad you came."
+Oh that's sweet!
+*
+10
+11
+12
+*
+"Thank you!"
+You hug [L-I-PRONOUN2].
+You kiss [L-I-PRONOUN2].
+***
+#9-------------------------------------------------------------------------------
+Seriously? Making your friend drink to abuse [L-I-PRONOUN2]? Never do that.
+*
+END
+***
+#10-------------------------------------------------------------------------------
+Camille and Vincent finally get in. You go to the concert. [L-I-NAME] is getting sick, Camille is looking after [L-I-PRONOUN2].
+[L-I-NAME] ruined everything. [L-I-PRONOUN-F]'s not that interesting anymore.
+But happily you meet [L-I-S-NAME], who turns out to be really nice and hot. In the morning you wake up next to [L-I-S-PRONOUN2]. It was a good night. [L-I-S-PRONOUN-F] even helps you in the morning finish your code. Things didn't go as planned but maybe we can say it turned better.
+*
+END
+***
+#11------------------------------------------------------------------------------
+You summon up the courage and strength to get closer to him, when suddenly someone knock at the door.
+"It's us!" You can hear as they open the door.
+You end up being in this awkward situation, when your two hands are half-way on [L-I-NAME]'s shoulders and no one really knows what is happening, not even you.
+*
+13
+7
+*
+You step back.
+At this point you'd better make your intentions clear.
+***
+#12------------------------------------------------------------------------------
+You summon up the courage and strength to get closer to him, when suddenly someone knock at the door.
+"It's us!" You can hear as they open the door.
+You end up being in this awkward situation, when your face is really close to [L-I-NAME]'s and everyone get in the room.
+*
+13
+7
+*
+You step back.
+At this point you want to finish the job.
+***
+#13------------------------------------------------------------------------------
+You missed your only chance. All night you try to find the perfect moment to kiss [L-I-NAME] but it never happens.
+*
+END
+***

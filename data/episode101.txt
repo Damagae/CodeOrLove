@@ -1,0 +1,461 @@
+Programming class
+231
+262
+281
+***
+#1 // This line is not useful for the program but it is for writing
+Segmentation fault [core dumped]
+This is what your terminal keeps telling you for 30 minutes. You don’t know what to do anymore, you tried everything you could imagine. Everybody in the classroom seems to be more advanced than you are. That classmate you hate, Alexandre, is four exercises beyond you. You’d rather die than asking him for help. You just want to give up.
+*
+2
+3
+4
+*
+You resume searching for the error, you must have missed it.
+You raise your hand to get some help from the teacher.
+You leave the room to get a drink, you need a little break.
+***
+#2-------------------------------------------------------------------------------
+You definitely CAN'T find the freaking problem in your code. You end up going on Twitter. Someone retweeted a cute picture of Rainbow Dash from My Little Pony.
+"I didn't know you liked that kind of stuff?"
+Your heart skips a beat. When you turn around, you find [L-I-NAME] looking at your screen. [L-I-PRONOUN] is the [L-I-GENDER] you secretly have a crush on.
+*
+5
+6
+7
+8
+*
+"This... This is not what you think. It's just a retweet, you know, there's no way I like that kind of stuff!"
+"Yeah... I'm a bit ashamed, but I find those little ponies really cute. Cuter than my code anyway."
+"Hey! May I help you?"
+"..."
+***
+#3-------------------------------------------------------------------------------
+Oh, crap! He is already busy with someone else... You thought you were late but that guy the teacher is with can't even compile a "hello world". You're never going to get any help soon.
+*
+2
+11
+12
+*
+You keep looking for the error in your code.
+You stand up, in order to find someone in the room who has the same problem as you.
+‎You complain on the class conversation.
+***
+#4-------------------------------------------------------------------------------
+You take care to close your computer. At your return, you don't want to find your keyboard blocked, your desktop wallpaper looking like your code editor and flipped in such a way when you're going right with your mouse the cursor is going left, etc. You take some changes in your pocket and leave the room.
+*
+19
+30
+31
+*
+You want a snack.
+You want a cold drink.
+You want a hot drink.
+***
+#5-------------------------------------------------------------------------------
+"Yeah, no way, huh... Who'd like that kind of childish thing in their 20s? No one for sure..." [L-I-NAME] says.
+He looks a bit red. Maybe you hurt [L-I-POSS-PRONOUN] feelings.
+"Anyway, are you on something right now? There's something I'd like to show you..."
+*
+9
+9
+10
+*
+"Yeah it's fine, please show me."
+‎"I'd do anything to escape from my code!"
+‎"I'm sorry, I am sooo late in my work... Maybe later?"
+***
+#6-------------------------------------------------------------------------------
+"Actually... I kinda find them really fun too." [L-I-NAME] says as [L-I-PRONOUN] blushes a bit.
+"I watch it in the bus on my way home."
+[L-I-POSS-PRONOUN-F] little smile is making your heart melt!
+"Anyway, are you on something right now? There's something I'd like to show you..."
+*
+9
+9
+10
+*
+"Yeah it's fine, please show me."
+"I'd do anything to escape from my code!"
+"I'm sorry, I am sooo late in my work... Maybe later?"
+***
+#7-------------------------------------------------------------------------------
+"No but maybe  y o u  can help me"[L-I-NAME] says with a wink.
+It feels like the wink shot a bullet straight to your heart.
+"[P-NAME]? Are you OK?" [L-I-PRONOUN-F] asks, concerned.
+"I have something to show you." [L-I-PRONOUN-F] adds.
+*
+9
+9
+10
+*
+You nod in agreement, a huge smile on your face.
+You try to look indifferent. "I was busy, but if it's important to you..."
+You can't let your code down. "I'm sorry! I have so much to catch up in my code..."
+***
+#8-------------------------------------------------------------------------------
+[L-I-NAME] frowns while looking at you.
+"[P-NAME]? Are you OK?" [L-I-PRONOUN-F] asks, concerned.
+"I'm sorry!" You said. "I'm just so tired..."
+"Do you want me to change your mind?"
+HELL YEAH! It sounds so sweet from [L-I-POSS-PRONOUN] mouth.
+"I have something to show you." [L-I-PRONOUN-F] adds.
+*
+9
+9
+10
+*
+You nod in agreement, a huge smile on your face.
+You try to look indifferent. "I was busy, but if it's important to you..."
+You can't let your code down. "I'm sorry! I have so much to catch up in my code..."
+***
+#9-------------------------------------------------------------------------------
+"Tadaaa!"
+[L-I-NAME] shows you discreetly tickets in his hands.
+"I got some free tickets to see Practical Emulsion in concert!"
+You don't know how to react. You have absolutely no idea what Practical Emulsion can be.
+*
+24
+25
+*
+You do not want to miss an opportunity to go out with [L-I-NAME]. "Practical Emulsion? I love this band!"
+"I'm sorry but... I don't know this band at all."
+***
+#10------------------------------------------------------------------------------
+"Yes, of course!" [L-I-NAME] answered. "I don't want to slow you down..."
+[L-I-PRONOUN-F] looks sad and disappointed. Damn! You wish you could hug [L-I-PRONOUN2] right now, but that wouldn't be appropriate. As [L-I-PRONOUN] walks away, you get back at your code.
+*
+9
+11
+12
+*
+Finally, you run after [L-I-PRONOUN2]. "Hey! Actually, I want you to show me!"
+You stand up, in order to find someone in the room who has the same problem as you.
+‎You complain on the class conversation.
+***
+#11------------------------------------------------------------------------------
+You are walking through the room, looking at people's screens. They are either extremely focused or checking their Facebook. You meet the gaze of Ophélie who smiles at you. She definitely is the best person in this room, maybe in town. She's always smiling, considerate, she will never let anybody down and always makes sure to help people when she can. Plus, she is really good at programming.
+*
+22
+3
+*
+"Ophélie, could you please help me? I'm stuck on something in my code and I'm sure it's stupid."
+You don't want to interrupt her in her work and abuse her kindness, you get back to your seat and raise your hand to call the teacher.
+***
+#12------------------------------------------------------------------------------
+You're writing on your phone.
+"Remember me why we have so much coding hour in the week? Please kill me already :'("
+You're checking the room, for a minute, then back at your phone. The whole class has seen your message but no one answered, not even a little sad emoji of compassion.
+Finally, someone is writing something!
+"Do anyone has a charger for my laptop? I forgot mine."
+You're devastated. They ghosted you like no one ever did.
+*
+4
+13
+*
+You leave the room to get a drink, you DO REALLY need a HUGE break.
+You ask that guy you hate, Alexandre, for help. At this point, your dignity is already really low.
+***
+#13------------------------------------------------------------------------------
+"Hey, Alexandre? Would you please help me on my code, I'm really stuck."
+As he is wearing earphones, he didn't hear you. You raise your voice a little bit louder.
+"ALEXANDRE!"
+Maybe you did scream, after all. He turns around and looks at you like you were a crazy stupid and ugly creature. You try to keep a smile on your face.
+"Do you mind helping me? I really need some help over there."
+He takes off his earphones then deigns to come closer to you.
+"What's wrong?" He asks with the less sympathetic tone someone could use.
+"I don't know, there is no problems when I compile, only when I try to execute."
+"There." He says. He types something, then goes back to his place.
+*
+14
+23
+*
+"What was the problem?" You ask.
+"Yes, it works! Thank you very much, you saved me!"
+***
+#14------------------------------------------------------------------------------
+"Something really stupid." Alexandre says. "I don't know how you made it 'till there with such poor skills in programming. Be happy I helped you, I won't explain. 'Don't got your time."
+You definitely lost your smile. Your blood is boiling in your veins. How can he EVEN DARE..?
+*
+23
+17
+18
+*
+"Ok... Thanks." You say while trying to keep calm.
+"Ah yeah... I remember now why you have no friends."
+You stand up, go toward him and close his laptop's screen. "Can you repeat what you just said?"
+***
+#15------------------------------------------------------------------------------
+Empty for now. To be completed.
+*
+END
+***
+#16------------------------------------------------------------------------------
+Empty for now. To be completed.
+*
+END
+***
+#17------------------------------------------------------------------------------
+"What did you just say?" Alexander asks.
+"Hum, nothing." You says while avoiding eye contact.
+When you feel his gaze away from you, you put your hand in front of your mouth.
+"Cough cough-- Bastard-- Cough cough"
+*
+23
+*
+You're still a chicken but that feels sooo good.
+***
+#18------------------------------------------------------------------------------
+Alexander looks at you like you just insulted his mother. "What's the problem with you? Get lost!" He pushes you away with his hands.
+*
+23
+20
+21
+*
+You don't want to start fight. He doesn't deserve your attention. You return to your seat.
+"Teacheeer! Alexandre is assaulting meeee!"
+You seize his throat with your left hand and lift him a few centimeters from the ground. With your right hand, you take your keys in your pocket and you rip his stomach from the bottom to the top. His guts and blood keeps flowing on the ground.
+***
+#19------------------------------------------------------------------------------
+You come near the vending machines. You think you are hungry for a Snicker bar. Actually, you could be hungry for a Snicker at any time. You push your coins in the machine while praying five different gods because you don't want your snack to get stuck. On your way back, while you're eating your bar with fierce, you meet Vincent.
+*
+32
+33
+*
+You don't really like him. You avoid eye contact and go your way.
+"Hey! Little break?"
+***
+#20------------------------------------------------------------------------------
+Everyone is looking at you. "No, that's not what it is..." Alexandre tries to defend himself.
+"Alexandre! Take your stuffs and get out of the class. No need to come next week."
+"Seriously?!" Alexandre is really pissed. He looks daggers at you before he leaves the class.
+*
+23
+*
+Yeah, he got what he deserved. But now you got an enemy for life. And you're a snitch. Hum.
+***
+#21------------------------------------------------------------------------------
+Who do you think you are? Dexter? I bet you can't even take a blood test without feeling sick. You're fooling no one. Get back to the start of the story and please try to be a little credible, OK?
+*
+END
+***
+#22------------------------------------------------------------------------------
+"Of course, [P-NAME]! I'm coming." She says.
+She walks toward you. "May I?" She asks. She takes your seat and watches your code for a few minutes, then smiles.
+"I got it!" She exclaims. "Look! The program is trying to load those data but they don't exist. If your check if they exist in the first place, you won't have this problem again."
+"They're supposed to be there but I didn't entered them yet!" You shout. "Of course, that is so dumb!"
+"Yeah, you don't really have any problem actually. Tell me if you need any more help."
+"Thank you Ophélie, you are the best!" You hug her.
+*
+23
+*
+Let's back to serious work now that your problem has gone.
+***
+#23------------------------------------------------------------------------------
+Finally, you managed to find your problem and solve it. By the end of the class, your code progressed a lot and you're not that late anymore. What a relief! You probably won't have to do a retake this semester.
+Probably not. Hum.
+*
+END
+***
+#24------------------------------------------------------------------------------
+"Really? Wow! You are so cultivated!" [L-I-PRONOUN-F] says. "I've never heard of this band! I have absolutely no idea what kind of music they do."
+[L-I-NAME] looks at you like you know the answer. Ah, yeah, you're supposed to.
+*
+29
+29
+29
+29
+29
+29
+*
+"It's some kind of rock I would say."
+"It's some kind of electro I would say."
+"It's some kind of metal I would say."
+"It's some kind of folk I would say."
+"It's some kind of classical music I would say."
+"I think it's indefinable. They have their very own style."
+***
+#25------------------------------------------------------------------------------
+"Me neither!" [L-I-PRONOUN-F] says. "I got those tickets from my brother who got them from a friend... Camille and Vincent are coming, it's on Friday night. You're interested? I thought it might be fun, and you may like it."
+[L-I-PRONOUN-F]'s inviting you to go out! You couldn't imagine a better scenario! It doesn't matter if you don't know the band whenever you're with [L-I-NAME]. However, your code has not progress a little bit, you have to give it on Monday. If you go out on Friday night, you will probably sleep all Saturday long. You won't be able to work on Sunday either, because it's your grandma 80th birthday. Argh!
+*
+26
+27
+*
+Who cares about retake, huh? You're young and you deserve to have some fun. You accept the invitation.
+You definitely can't afford a non-working weekend! You're extremely sad but you have to turn the invitation down.
+***
+#26------------------------------------------------------------------------------
+"Yess! I'm glad you're coming!" [L-I-NAME] says.
+"I'm glad that YOU'RE coming." you says in your head.
+"Let's meet Friday at 6pm at my place for a little before, and then we go to the concert?"
+"Yes, that's perfectly fine!" You answered.
+Now you're too excited to work on you're code. What for anyway? You won't have your semester but you'll probably make out.
+Probably. Hum.
+*
+END
+***
+#27------------------------------------------------------------------------------
+"Oh..." [L-I-NAME] sighs. Oh Lord! You're hurting [L-I-POSS-PRONOUN] feelings. [L-I-PRONOUN-F] sad all because of you! Your heart is totally breaking in pieces...
+"I'd really like to go out, but I'm really struggling with this semester, I have to work on my code..."
+"Of course, yeah..."
+A little tear falls on your cheek as [L-I-PRONOUN] walks away...
+*
+2
+3
+28
+*
+Let's back to this goddamn segmentation fault.
+You call the teacher for a very needed help.
+You give up everything and curl up into a ball in a corner of the room, looking for a stream of light in the darkness of your heart.
+***
+#28------------------------------------------------------------------------------
+You fell asleep an no one woke you up. You open your eyes in the empty room, it's dark. The door is locked. You can't go out. On your phone, it's 11pm.
+It looks like you have a whole night trapped in the computers' room to improve your code.
+[...]
+First grades wake you up at 8:30am in the morning. You look like Voldemort but you got rid of that error.
+*
+END
+***
+#29------------------------------------------------------------------------------
+"I've read their Wikipedia page and I thought they were more into pop but it must be more complex than that." [L-I-PRONOUN-F] says.
+That's why your parents told you not to lie! To avoid those very awkward situations!
+"I got those tickets from my brother who got them from a friend... Camille and Vincent are coming, it's on Friday night. You're interested? I thought it might be fun, and you may like it."
+[L-I-PRONOUN-F]'s inviting you to go out! You couldn't imagine a better scenario! It doesn't matter if you don't know the band whenever you're with [L-I-NAME]. However, your code has not progress a little bit, you have to give it on Monday. If you go out on Friday night, you will probably sleep all Saturday long. You won't be able to work on Sunday either, because it's your grandma 80th birthday. Argh!
+*
+26
+27
+*
+Who cares about retake, huh? You're young and you deserve to have some fun. You accept the invitation.
+You definitely can't afford a non-working weekend! You're extremely sad but you have to turn the invitation down.
+***
+#30------------------------------------------------------------------------------
+You come near the vending machines. You wish you could have 5 shots of vodka. No, a whole bottle. But you'll go for a coke. You push your coins in the machine. On your way back, while you're opening your can and putting foam all over your shirt, you meet Vincent.
+*
+32
+33
+*
+You don't really like him. You avoid eye contact and go your way.
+"Hey! Little break?"
+***
+#31------------------------------------------------------------------------------
+You come near the vending machines. You could die for a Christmas special at Starbuck. A venti one. But you'll go for a CROUS dishwater coffee. You push your coins in the machine. On your way back, while you're trying not to spill your overpriced coffee on your nice clothes, you meet Vincent.
+*
+32
+33
+*
+You don't really like him. You avoid eye contact and go your way.
+"Hey! Little break?"
+***
+#32------------------------------------------------------------------------------
+You walk near him. Yes! He doesn't seem like he've seen you. You keep walking when you hear from your back.
+"Hey, [P-NAME]?"
+*
+34
+35
+*
+You turn slowly... "Yeah, Vincent! I didn't see you..."
+You do really not want to see him so YOU RUN.
+***
+#33------------------------------------------------------------------------------
+"Yeah! It's unbreathable in math... It smells like a hundred people have been running for hours while wearing sealskin without having taken any shower for months...
+"Yeah, OK, I get the picture." Throwing up was not the point of this break time.
+"Hey, actually, I had something to ask you. Are you free on Friday night?" Vincent asks.
+*
+36
+37
+*
+Is he asking for a date? He's not even really your friend! NO WAY.
+"Yeah, why?"
+***
+#34------------------------------------------------------------------------------
+"Hey, how you're doing?" He asks.
+"Very well!" You says. You don't want to have his pity, nor explain that your a failure as a programming student.
+"Hey, actually, I had something to ask you. Are you free on Friday night?" Vincent asks.
+*
+36
+37
+*
+Is he asking for a date? He's not even really your friend! NO WAY.
+"Yeah, why?"
+***
+#35------------------------------------------------------------------------------
+You're a bit out of breath when you come back to the classroom. You were in such a rush that you left what you bought behind...
+*
+3
+31
+*
+You have to work now! You raise your hand with DETERMINATION to get some help from the teacher.
+You go back to buy something else. That will be a coffee because that's all you can afford now.
+***
+#36------------------------------------------------------------------------------
+"You can't? Ok..." He doesn't seem really affected.
+"By chance, do you know someone who'd be interested in seeing Practical Emulsion on stage?" He asks.
+"Wow, I don't know what this is at all!" It sounds like a really, really, really, really, really bad weird band.
+"Yeah, I know..." He says. "Me neither! But there is this ticket I can give to someone and I really think it's going to be fun."
+*
+38
+39
+38
+*
+"I'm sorry I don't know anybody who'd be interested."
+Actually, it wouldn't be a bad thing if you'd go out. Anyways, you won't finish your project even if you work your best, so better have fun.
+Fun, with him? Pretty unlikely. Plus, you have so much work to do this weekend.
+***
+#37------------------------------------------------------------------------------
+"Do you want to come see Practical Emulsion with Camille, [L-I-NAME] and me? I know it's an unknown band and I'm pretty it's not gonna be extremely good but I hope it'll be fun!"
+"[L-I-NAME]...?" You can't help but ask. [L-I-PRONOUN-F]'s the [L-I-GENDER] you have a massive crush on for months!
+"Yeah"
+That sounds completely different now.
+*
+40
+41
+*
+You gotta go! This might be your only chance to, well, you know.
+You can't go... You already have so much work to do...
+***
+#38------------------------------------------------------------------------------
+"Yeah, I guess it's kinda hard to find someone who know that band, huh? Thanks anyway!" He says kindly.
+"Have fun!" You reply. "I have a lot of work to do, so I'd better go!"
+"Bye"
+Back to the classroom, your code doesn't have the error anymore! Maybe someone fixed it while you were away. YES!
+Surprisingly, Vincent enters the room and goes near [L-I-NAME]. "Oh, [P-NAME] can't?" You hear the later saying. "Too bad, it's gonna be only we three then?"
+What is [L-I-PRONOUN] talking about? Vincent is going to the concert with [P-NAME]? And you said no? You said NO?
+In addition, [L-I-NAME] looks kind of sad that you declined. Why those kind of missed opportunity always happen to you?
+*
+23
+*
+No time for crying. You need to keep on working to catch up.
+***
+#39------------------------------------------------------------------------------
+"Oh, you wanna come finally? So nice!" He looks really happy. Maybe you shouldn't have accept. "Go meet [L-I-NAME] upstairs, [L-I-PRONOUN]'s the one with the tickets."
+"[L-I-NAME]?" You ask in surprise.
+"[L-I-PRONOUN-F]'s the one who got the tickets actually"
+"Really? So [L-I-PRONOUN] coming too?"
+"Yes, so does Camille."
+"Perfect!" You say. You could hardly be more happy.
+*
+26
+*
+You go ask [L-I-NAME] for your ticket.
+***
+#40------------------------------------------------------------------------------
+"You're coming! So nice! Go meet [L-I-NAME] upstairs, [L-I-PRONOUN]'s the one with the tickets."
+"Perfect" You says with a huge smile.
+*
+26
+*
+You go ask [L-I-NAME] for your ticket.
+***
+#41------------------------------------------------------------------------------
+"Me too..." He says impish. "I guess I'll do the retake ha ha."
+"Have fun!" You reply. "I have a lot of work to do, so I'd better go!"
+"Bye!"
+Back to the classroom, your code doesn't have the error anymore! Maybe someone fixed it while you were away. YES!
+A bit later, Vincent enters the room and goes near [L-I-NAME]. "Oh, [P-NAME] can't?" You hear the later saying. "Too bad, it's gonna be only we three then?"
+[L-I-NAME] looks kind of sad that you declined. Why did you say no already?
+*
+23
+*
+No time for crying. You need to keep on working to catch up.
+***
