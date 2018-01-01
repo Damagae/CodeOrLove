@@ -1,1 +1,2 @@
 # CodeOrLove
+## How to install
